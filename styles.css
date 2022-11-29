@@ -1,0 +1,125 @@
+.main{
+    font-family: 'Roboto', sans-serif;
+    
+}   
+.Jbox{
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 70px;
+    margin-right: 1000px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+.fa-brands{
+    color: hsl(1deg, 84%, 67%);
+    margin-top: 70px;
+    font-size: 90px;
+}
+.firtline1{
+    float:left; 
+    padding:0px 20px;
+}
+.picture1{
+    margin-left: 35px;
+    margin-bottom: 30px;
+}
+.text1{
+    margin-left: 35px;
+    font-size: 50px;
+}
+.text1-1{
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 100px;
+}
+h2{
+   margin-bottom: 5px; 
+}
+.text1-2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.threebox{
+  box-sizing: border-box;
+}
+.textinbox{
+    color: grey;
+    font-size: 40px;
+}
+.column {
+    color: hsl(1deg 83% 67%);
+    font-size: 80px;
+    float: left;
+    width: 250px;
+    padding: 10px;
+    height: 200px; 
+    text-align: left;
+  }
+.threebox{
+    margin-bottom: 400px;
+    margin-left: 35px;;
+}
+.threebox:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.text2-1{
+    box-shadow: 0px 6px red;
+    padding: 10px;
+    width: 200px;
+    font-size: 40px;
+    margin-left: 35px;
+}
+.text2-2{
+    color: gray;
+    font-size: 40px;
+    line-height: 70px;
+    margin-left: 35px;
+    margin-bottom: 100px;
+}
+.box{
+    background: black;
+    text-align: center;
+    width:100%;
+    height:1200px;
+}
+.textbox1{
+    color: gray;
+    font-size: 60px;
+    font-weight: 600;
+    padding: 150px;
+    margin-bottom: 0px;
+}
+.textbox2{
+    margin-top: 0px;
+    color: white;
+    font-size: 120px;
+    font-weight: 600;
+}
+.textbox3{
+    color: white;
+    font-size: 50px;
+}
+.textbox4{
+    color: red;
+    border: 4px solid red;
+    font-weight: 600;
+    font-size: 40px;
+    padding: 20px;
+    border-radius: 40px;
+    position: absolute;
+    height: 48px;
+    left: 600px;
+    right: 600px;
+}
+.textbox5{
+    margin: 300px;
+    color: grey;
+    font-size: 25px;
+}
