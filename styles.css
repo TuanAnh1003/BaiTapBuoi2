@@ -1,6 +1,6 @@
 .main{
     font-family: 'Roboto', sans-serif;
-    
+
 }   
 .Jbox{
     background-color: black;
@@ -16,13 +16,14 @@
     text-align: center;
 }
 .fa-brands{
-    color: hsl(1deg, 84%, 67%);
+    color: #F26464;
     margin-top: 70px;
     font-size: 90px;
 }
 .firtline1{
     float:left; 
     padding:0px 20px;
+    margin-bottom: 80px;
 }
 .picture1{
     margin-left: 35px;
@@ -52,7 +53,7 @@ h2{
     font-size: 40px;
 }
 .column {
-    color: hsl(1deg 83% 67%);
+    color: #F26464;
     font-size: 80px;
     float: left;
     width: 250px;
@@ -70,7 +71,7 @@ h2{
     clear: both;
 }
 .text2-1{
-    box-shadow: 0px 6px red;
+    box-shadow: 0px 6px #F26464;
     padding: 10px;
     width: 200px;
     font-size: 40px;
@@ -93,7 +94,7 @@ h2{
     color: gray;
     font-size: 60px;
     font-weight: 600;
-    padding: 150px;
+    padding: 100px;
     margin-bottom: 0px;
 }
 .textbox2{
@@ -101,14 +102,15 @@ h2{
     color: white;
     font-size: 120px;
     font-weight: 600;
+    margin-bottom: 50px;
 }
 .textbox3{
     color: white;
     font-size: 50px;
 }
 .textbox4{
-    color: red;
-    border: 4px solid red;
+    color: #F26464;
+    border: 4px solid #F26464;
     font-weight: 600;
     font-size: 40px;
     padding: 20px;
@@ -121,5 +123,5 @@ h2{
 .textbox5{
     margin: 300px;
     color: grey;
-    font-size: 25px;
+    font-size: 33px;
 }
